@@ -18,7 +18,7 @@ Este projeto faz a coleta de dados na web, incluindo a realização de requisiç
 ⚙️ Como Usar
 1. Instalação e Execução
 
-Faça o clone este repositório:
+Faça o clone este repositório: https://github.com/danilogep/Scraper_Citacoes.git
 
 Acesse o cd [NOME-DO-SEU-REPOSITORIO]
 
